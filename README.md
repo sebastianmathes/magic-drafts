@@ -23,6 +23,7 @@
 
 ## wahrscheinlich noch gedraftet
 
-Guilds of ravnica/Ravnica Allegiance
-Theros
-25.08.2019 - ??? - Ronja 
+Guilds of ravnica/Ravnica Allegiance  
+Theros  
+25.08.2019 - ??? - Ronja  
+
