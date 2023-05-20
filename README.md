@@ -2,7 +2,7 @@
 
 |ID|Set              |Datum     |Wo    |
 |--|-----------------|----------|------|
-|1 |Return to Ravnica|01.03.2014|Sven  |
+|[1](drafts/01.md) |Return to Ravnica|01.03.2014|Sven  |
 |2 |Born of the Gods |01.05.2014|Seppo |
 |3 |Magic 2015       |26.12.2014|Stefan|
 |4 |Dragons of Tarkir|04.2015   |Seppo |
